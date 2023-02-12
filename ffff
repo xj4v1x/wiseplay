@@ -1,101 +1,10 @@
 {
 	"name": "xJ4V1x",
-    "author": "chuky (Actualizada al 11-02-2023)",
+    "author": "",
     "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
-    "info": "Enlaces de internet",
-    "telegram": "chukyeldiabolico",
+    "info": "",    
     "url": "https://raw.githubusercontent.com/xj4v1x/wiseplay/main/ffff",
     "groups": [{
-             "name": "Lista para todo el mundo (Sin lucrarse)",
-            "image": "https://i.ibb.co/h2yMPqM/fotoefectos-com-final-7538212838645764191.jpg",
-            "info": "",
-            "stations": [{}]
-	}, ,{
-            "name": "NFL",
-            "image": "https://assets.turbologo.com/blog/es/2019/12/19132851/NFL-logo-cover.jpg",
-            "info": "",
-            "stations": [{
-	     "name": "NFL Redzone",
-			"image": "https://gammawire.com/wp-content/uploads/2021/12/how-many-subscibers-does-NFL-RedZone-have.jpg",
-			"url" : "https://markkystreams.com/video/nfl-redzone/",
-			"isHost": "true"
-          }, {  
-	    "name": "NFL Redzone 2",
-			"image": "https://gammawire.com/wp-content/uploads/2021/12/how-many-subscibers-does-NFL-RedZone-have.jpg",
-			"url" : "https://markkystreams.com/video/nfl-redzone-2/",
-			"isHost": "true"
-          }, {  
-			"name": "Kansas City Chiefs vs Philadelphia Eagles",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://ufckhabib.com/nfl/stream1.php",
-			"isHost": "true"
-          }, {  
-          "name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-02/",
-			"isHost": "true"
-         }, {  
-          "name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-03/",
-			"isHost": "true"
-               }, {  
-                        "name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-04/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-05/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-06/",
-			"isHost": "true"
-              }, {  
-                         "name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-07/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-08/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-09/",
-			"isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-10/",
-			"isHost": "true"
-              }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-11/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-12/",
-			"isHost": "true"
-               }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-12/",
-			"isHost": "true"
-                 }, {
-			"name": "",
-			"image": "https://www.freepnglogos.com/uploads/nfl-logo-png/nfl-unprison-fighting-against-the-prison-industrial-complex-4.png",
-			"url" : "http://markkystreams.com/video/nfl-13/",
-			"isHost": "true"    
-		}]
-		  },{
             "name": "NHL",
             "image": "https://1000logos.net/wp-content/uploads/2017/05/NHL-emblem.jpg",
             "info": "",
