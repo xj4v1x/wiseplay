@@ -6,7 +6,7 @@
 "telegram": "",
 "url": "https://raw.githubusercontent.com/xj4v1x/wiseplay/main/",
 "groups": [{
-"name": "Lista para todo el mundo (Sin lucrarse)",
+"name": "Hola!",
 "image": "https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg",
 "info": "",
 "stations": [{}]
@@ -96,7 +96,7 @@
 },{
 "name": "Clika para ver la programación",
 "embed": "true",
-"url": "https://es.global.nba.com/schedule/",
+"url": "http://codsp.es:31000/get.php?username=NABILGOLD&password=E3e6kukLeZ&type=m3u_plus",
 "image": "https://i0.wp.com/deportes24.live/wp-content/uploads/2021/02/NBA-TV-StarSat.jpg"
 }, {
 "name": "Clika el logo tu equipo o el coontrario",
